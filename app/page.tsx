@@ -1,3 +1,5 @@
+"use client";
+
 import { addPost, getPost } from "@/action/action";
 
 export async function Home() {
